@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['17207988213'] //ur owner number
-global.ownername = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))" //ur owner name
-global.ytname = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))" //ur yt chanel name
-global.socialm = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))" //ur github or insta name
+global.owner = ['923116032635'] //ur owner number
+global.ownername = "SaQi MaLiK^_^))" //ur owner name
+global.ytname = "SaQi MaLiK^_^))" //ur yt chanel name
+global.socialm = "SaQi MaLiK^_^))" //ur github or insta name
 global.location = "indai, Jharkhand balumath •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))" //ur location
 
 //bot bomdy 
 global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
-global.botname = 'wa.me//•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))' //ur bot name
+global.botname = 'SaQi MaLiK^_^))' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))' //script link
+global.botscript = 'https://SaQi MaLiK^_^))' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))" //ur sticker watermark packname
-global.author = "   •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "•s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))." //ur watermark
+global.packname = "   SaQi MaLiK^_^))" //ur sticker watermark packname
+global.author = "   SaQi MaLiK^_^))\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "SaQi MaLiK^_^))." //ur watermark
 
 // Other
 global.sessionName = 'session'
