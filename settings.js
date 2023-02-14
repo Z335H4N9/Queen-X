@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923116032635'] //ur owner number
-global.ownername = "SaQi MaLiK^_^))" //ur owner name
-global.ytname = "SaQi MaLiK^_^))" //ur yt chanel name
-global.socialm = "SaQi MaLiK^_^))" //ur github or insta name
+global.owner = ['Suraj'] //ur owner number
+global.ownername = "Suraj^_^))" //ur owner name
+global.ytname = "Suraj^_^))" //ur yt chanel name
+global.socialm = "Suraj^_^))" //ur github or insta name
 global.location = "indai, Jharkhand balumath •s᭄•ᴜ•ɽ•ᴀ•ᴊ᭄✧s᭄•ᴀ•ɴ•ᴊ•ᴜ᭄•^_^))" //ur location
 
 //bot bomdy 
 global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
-global.botname = 'SaQi MaLiK^_^))' //ur bot name
+global.botname = 'Suraj^_^))' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
-global.botscript = 'https://SaQi MaLiK^_^))' //script link
+global.botscript = 'https://Suraj^_^))' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "   SaQi MaLiK^_^))" //ur sticker watermark packname
-global.author = "   SaQi MaLiK^_^))\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
-global.wm = "SaQi MaLiK^_^))." //ur watermark
+global.packname = "   Suraj^_^))" //ur sticker watermark packname
+global.author = "   Suraj^_^))\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
+global.wm = "Suraj^_^))." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,16 +40,16 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: '*👸🏻💭Here you go!*',
-    admin: '*👸🏻💭This feature could be used by admins only!*',
-    botAdmin: '*👸🏻💭Bot Must Be Admin First!*',
-    premime: '*👸🏻💭Premium Special Features If You Want to Register Type Rent*',
-    owner: '*👸🏻💭This feature could be used by owner only*',
-    group: '*👸🏻💭Features Used Only For Groups!*',
-    private: '*👸🏻💭Features Used Only For Private Chat!*',
-    bot: '*👸🏻💭This feature could be used by bot only*',
-    wait: '*👸🏻💭Please wait...*',
-    linkm: '*👸🏻💭Where is the link?*',
+    success: '*👸🏻💭Suraj Here you go!*',
+    admin: '*👸🏻💭Suraj This feature could be used by admins only!*',
+    botAdmin: '*👸🏻💭Suraj Bot Must Be Admin First!*',
+    premime: '*👸🏻💭Suraj Premium Special Features If You Want to Register Type Rent*',
+    owner: '*👸🏻💭Suraj This feature could be used by owner only*',
+    group: '*👸🏻💭Suraj Features Used Only For Groups!*',
+    private: '*👸🏻💭SurajFeatures Used Only For Private Chat!*',
+    bot: '*👸🏻💭SurajThis feature could be used by bot only*',
+    wait: '*👸🏻💭Suraj Please wait...*',
+    linkm: '*👸🏻💭Suraj Where is the link?*',
     endLimit: '*👸🏻💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
     nsfw: '*👸🏻💭The nsfw feature has not been activated, please contact the admin to activate*',
 }
