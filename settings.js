@@ -15,7 +15,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['Suraj'] //ur owner number
+global.owner = ['916201114061'] //ur owner number
 global.ownername = "Suraj^_^))" //ur owner name
 global.ytname = "Suraj^_^))" //ur yt chanel name
 global.socialm = "Suraj^_^))" //ur github or insta name
@@ -26,9 +26,9 @@ global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
 global.botname = 'Suraj^_^))' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https:// no" //ur website to be displayed
+global.websitex = "https:// " //ur website to be displayed
 global.botscript = 'https://Suraj^_^))' //script link
-global.themeemoji = "🛸" //ur theme emoji
+global.themeemoji = "🛸" Suraj^_^//ur theme emoji
 global.packname = "   Suraj^_^))" //ur sticker watermark packname
 global.author = "   Suraj^_^))\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
 global.wm = "Suraj^_^))." //ur watermark
