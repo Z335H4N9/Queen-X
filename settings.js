@@ -32,7 +32,7 @@ global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur websit
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
 global.packname = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐XD" //ur sticker watermark packname
-global.author = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐XD\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
+global.author = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐XD\n\n\nA whatsapp bot developed by\n   😎🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐XD MD 🙂" //ur sticker watermark author
 global.wm = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪XD." //ur watermark
 
 // Other
