@@ -16,24 +16,24 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['+916201114061'] //ur owner number
-global.ownername = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪-XD ＢＯＴ" //ur owner name
+global.ownername = "Suraj -XD ＢＯＴ" //ur owner name
 global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐 XD ＢＯＴ" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "Suraj XD ＢＯＴ" //ur github or insta name
+global.location = "India, Jharkhand, Latehar, Balumath" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
 global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
 global.ownernomer = "+916201114061" //ur number
 global.premium = ['+916201114061'] //ur premium number
-global.botname = '🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐-XD' //ur bot name
+global.botname = 'Suraj-XD' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐XD" //ur sticker watermark packname
-global.author = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐XD\n\n\nA whatsapp bot developed by\n   😎🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐XD MD 🙂" //ur sticker watermark author
-global.wm = "🦋⃟⃝⃟🇰rishna❤️❤‍🩹🔐𓆪XD." //ur watermark
+global.packname = "Suraj XD" //ur sticker watermark packname
+global.author = "Suraj XD\n\n\nA whatsapp bot developed by\n   Suraj" //ur sticker watermark author
+global.wm = "Suraj 𓆪XD." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -42,15 +42,15 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: '*💭Here you go!*',
-    admin: '*💭This feature could be used by admins only!*',
-    botAdmin: '*💭Bot Must Be Admin First!*',
+    success: '*💭Suraj Here you go!*',
+    admin: '*💭 Suraj This feature could be used by admins only!*',
+    botAdmin: '*💭Suraj Bot Must Be Admin First!*',
     premime: '*💭Premium Special Features If You Want to Register Type Rent*',
     owner: '*💭This feature could be used by owner only*',
     group: '*💭Features Used Only For Groups!*',
     private: '*💭Features Used Only For Private Chat!*',
     bot: '*💭This feature could be used by bot only*',
-    wait: '*💭Please wait...*',
+    wait: '*💭Sueaj Please wait...*',
     linkm: '*💭Where is the link?*',
     endLimit: '*💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
     nsfw: '*💭The nsfw feature has not been activated, please contact the admin to activate*',
